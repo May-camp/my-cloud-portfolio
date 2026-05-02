@@ -19,9 +19,7 @@ This project demonstrates the automation of web server infrastructure deployment
 3. The instance automatically updates packages, installs Nginx, and deploys the portfolio website.
 4. Access the server via the Public IP address on port 80.
 
-### Screenshot
-<img width="1366" height="768" alt="2026-04-25 (17)" src="https://github.com/user-attachments/assets/ac325f8d-621f-4b54-9187-ad68c4d087c2" />
-<img width="1366" height="768" alt="2026-04-25 (21)" src="https://github.com/user-attachments/assets/67230d14-ce23-4bdc-b429-e03b8dba0a95" />
+### Diagram
 <img width="1280" height="698" alt="aws_diagram_for_nginx" src="https://github.com/user-attachments/assets/9f155a67-1c32-4cf3-a52a-4b5c00a80eb4" />
 
 ---
